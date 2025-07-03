@@ -187,3 +187,14 @@ This will open a new tab in your web browser, typically at `http://localhost:850
 
 This project is open-source and available under the MIT License.
 
+## ScreeShots
+
+<img width="1271" alt="image" src="https://github.com/user-attachments/assets/1e63a2a2-21c8-4c24-9df9-a5e7e01399ff" />
+
+<img width="1240" alt="image" src="https://github.com/user-attachments/assets/fc4ae362-da8f-4909-a33d-6e5949d7fc17" />
+
+<img width="1275" alt="image" src="https://github.com/user-attachments/assets/fab4a0c1-ea7b-4071-a58d-432525dad16b" />
+
+
+
+
