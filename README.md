@@ -187,7 +187,7 @@ This will open a new tab in your web browser, typically at `http://localhost:850
 
 This project is open-source and available under the MIT License.
 
-## ScreeShots
+## Screen Shots
 
 <img width="1271" alt="image" src="https://github.com/user-attachments/assets/1e63a2a2-21c8-4c24-9df9-a5e7e01399ff" />
 
